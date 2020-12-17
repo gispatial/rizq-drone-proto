@@ -1,12 +1,14 @@
-# JavaScript Drones! 
+# Deploy Drone CI by Rizq Solutions DevOps Elite
+[![Stack](https://raw.githubusercontent.com/paralect/stack/master/stack-component-template/stack.png)](https://github.com/paralect/stack)
+
+[![Stack](
+https://github.com/gispatial/rizq-drone/blob/ezhivitsa/update-drone/Screenshot%202020-12-17%20at%2012.22.50%20PM.png)](https://github.com/Rizq-Solutions/rizq-drone)
 
 Watch the videos:
 
 Part 1 → <https://www.youtube.com/watch?v=JzFvGf7Ywkk>
 
 Part 2 → <https://www.youtube.com/watch?v=ozMwRq-IT2w>
-
-![](https://d3vv6lp55qjaqc.cloudfront.net/items/3u02271f0u461s2e2q24/Image%202018-12-05%20at%2011.11.56%20AM.png)
 
 ⚠️️️ ⚠️ ️️⚠️️️ Use the codebase as your own risk. The drone can hurt you and I'm not responsible for that. Always test commands with the props removed first. Don't be dumb. ⚠️️️ ⚠️️️ ⚠️️️
 
